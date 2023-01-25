@@ -1,1 +1,0 @@
-Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //h3[contains(text(),'Epic sadface: Username and password do not match any user in this service')]' (tried for 60 second(s) with 500 milliseconds interval)
