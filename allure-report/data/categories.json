@@ -1,0 +1,55 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "\nCannot inject @Test annotated Method [incorrectLoginTest] with [class entity.Customer].\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "children" : [ {
+        "name" : "Utilizar credenciales no válidas",
+        "uid" : "5c1b5d85f5c7e70b",
+        "parentUid" : "e2b3e2af61b8b4dc5498557ee3f48812",
+        "status" : "broken",
+        "time" : {
+          "start" : 1674538225134,
+          "stop" : 1674538225134,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e2b3e2af61b8b4dc5498557ee3f48812"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //h3[contains(text(),'Epic sadface: Username and password do not match any user in this service')]' (tried for 60 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "Utilizar credenciales no válidas",
+        "uid" : "f70b8e1779892540",
+        "parentUid" : "42b5007160e921f3421f59cc3ece9974",
+        "status" : "failed",
+        "time" : {
+          "start" : 1674597936136,
+          "stop" : 1674597999294,
+          "duration" : 63158
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "42b5007160e921f3421f59cc3ece9974"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

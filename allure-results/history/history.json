@@ -1,0 +1,1030 @@
+{
+  "60482065fc00c1667ec9db7e7c91947f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "246048eda0109162",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674597932028,
+        "stop" : 1674597934014,
+        "duration" : 1986
+      }
+    }, {
+      "uid" : "3d4f7ea1bb6f0b8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674594195753,
+        "stop" : 1674594197459,
+        "duration" : 1706
+      }
+    } ]
+  },
+  "9cf1e17d2937ae0140c00d282f68fe38" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4a41e1b08cc27448",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674598002235,
+        "stop" : 1674598003085,
+        "duration" : 850
+      }
+    } ]
+  },
+  "c9a70f84044922f7f85d3a92abaa549c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "3bec924b7ce98233",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674597927840,
+        "stop" : 1674597928633,
+        "duration" : 793
+      }
+    }, {
+      "uid" : "d8291db9c62e8b90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674594190858,
+        "stop" : 1674594191664,
+        "duration" : 806
+      }
+    }, {
+      "uid" : "28c19ff154d2b26f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493871171,
+        "stop" : 1674493871920,
+        "duration" : 749
+      }
+    }, {
+      "uid" : "111d7ca330c95d91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493871171,
+        "stop" : 1674493871920,
+        "duration" : 749
+      }
+    }, {
+      "uid" : "3dc413d41866cb80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493871171,
+        "stop" : 1674493871920,
+        "duration" : 749
+      }
+    }, {
+      "uid" : "2f3b4418e836a15c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493871171,
+        "stop" : 1674493871920,
+        "duration" : 749
+      }
+    }, {
+      "uid" : "7af13731c88da1cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493871171,
+        "stop" : 1674493871920,
+        "duration" : 749
+      }
+    }, {
+      "uid" : "806c940dbd54188c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493871171,
+        "stop" : 1674493871920,
+        "duration" : 749
+      }
+    }, {
+      "uid" : "6ad1ac37fa6855b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493871171,
+        "stop" : 1674493871920,
+        "duration" : 749
+      }
+    }, {
+      "uid" : "c47e9fd241c97bf5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493871171,
+        "stop" : 1674493871920,
+        "duration" : 749
+      }
+    }, {
+      "uid" : "90cd8e212c909e60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493871171,
+        "stop" : 1674493871920,
+        "duration" : 749
+      }
+    }, {
+      "uid" : "70b7764031c229e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493871171,
+        "stop" : 1674493871920,
+        "duration" : 749
+      }
+    }, {
+      "uid" : "3a4e40e4c0a1c726",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493871171,
+        "stop" : 1674493871920,
+        "duration" : 749
+      }
+    }, {
+      "uid" : "45d4467d8b997348",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674446690913,
+        "stop" : 1674446691219,
+        "duration" : 306
+      }
+    }, {
+      "uid" : "d1f58115fbc8f8cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674446282433,
+        "stop" : 1674446283703,
+        "duration" : 1270
+      }
+    } ]
+  },
+  "cbc5eb8b0230e09adf48a2a70f86246" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 13,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "fd9e24867b0091bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674597915047,
+        "stop" : 1674597917488,
+        "duration" : 2441
+      }
+    }, {
+      "uid" : "ab320d8c6ce4840",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674594177980,
+        "stop" : 1674594179582,
+        "duration" : 1602
+      }
+    }, {
+      "uid" : "d9ca46053527434f",
+      "status" : "failed",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='title']' (tried for 60 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1674593511656,
+        "stop" : 1674593574680,
+        "duration" : 63024
+      }
+    }, {
+      "uid" : "90b0bc6939704425",
+      "status" : "failed",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='title']' (tried for 60 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1674592354529,
+        "stop" : 1674592416769,
+        "duration" : 62240
+      }
+    }, {
+      "uid" : "634cb2605fb07a43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537427961,
+        "stop" : 1674537429619,
+        "duration" : 1658
+      }
+    }, {
+      "uid" : "98d15216bf9bb7dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537427961,
+        "stop" : 1674537429619,
+        "duration" : 1658
+      }
+    }, {
+      "uid" : "de571b6b7b3a54fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537427961,
+        "stop" : 1674537429619,
+        "duration" : 1658
+      }
+    }, {
+      "uid" : "f19e645300bfc14f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537427961,
+        "stop" : 1674537429619,
+        "duration" : 1658
+      }
+    }, {
+      "uid" : "d6169dafa5dfdb05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537427961,
+        "stop" : 1674537429619,
+        "duration" : 1658
+      }
+    }, {
+      "uid" : "aca3f36f3c0b0c8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537427961,
+        "stop" : 1674537429619,
+        "duration" : 1658
+      }
+    }, {
+      "uid" : "81865e2295f75474",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537427961,
+        "stop" : 1674537429619,
+        "duration" : 1658
+      }
+    }, {
+      "uid" : "3e77657992d89b88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537427961,
+        "stop" : 1674537429619,
+        "duration" : 1658
+      }
+    }, {
+      "uid" : "e1b12eb7f3cde0a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493853359,
+        "stop" : 1674493855532,
+        "duration" : 2173
+      }
+    }, {
+      "uid" : "bdac24efcdbb23bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674446619112,
+        "stop" : 1674446622898,
+        "duration" : 3786
+      }
+    }, {
+      "uid" : "57dc2f64dfb51e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674446268212,
+        "stop" : 1674446270079,
+        "duration" : 1867
+      }
+    } ]
+  },
+  "c3a46b9cc83c4720580aa3a8ea052e0a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "ab2826861d6c285f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674597920607,
+        "stop" : 1674597920772,
+        "duration" : 165
+      }
+    }, {
+      "uid" : "d2f9d9a02f65ab37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674594182880,
+        "stop" : 1674594183248,
+        "duration" : 368
+      }
+    }, {
+      "uid" : "5c798deece79dfd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537433175,
+        "stop" : 1674537433526,
+        "duration" : 351
+      }
+    }, {
+      "uid" : "4d360ef7144a9d22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537433175,
+        "stop" : 1674537433526,
+        "duration" : 351
+      }
+    }, {
+      "uid" : "e28b738248905cfa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537433175,
+        "stop" : 1674537433526,
+        "duration" : 351
+      }
+    }, {
+      "uid" : "48a7a07f389deaab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537433175,
+        "stop" : 1674537433526,
+        "duration" : 351
+      }
+    }, {
+      "uid" : "a63fb98cc09fc7c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537433175,
+        "stop" : 1674537433526,
+        "duration" : 351
+      }
+    }, {
+      "uid" : "1f7e01eea5cb70b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537433175,
+        "stop" : 1674537433526,
+        "duration" : 351
+      }
+    }, {
+      "uid" : "c6a8c972697bea06",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537433175,
+        "stop" : 1674537433526,
+        "duration" : 351
+      }
+    }, {
+      "uid" : "80fe902097d03d0d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537433175,
+        "stop" : 1674537433526,
+        "duration" : 351
+      }
+    }, {
+      "uid" : "1b66144a8805116",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537433175,
+        "stop" : 1674537433526,
+        "duration" : 351
+      }
+    }, {
+      "uid" : "da794047aca93d3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537433175,
+        "stop" : 1674537433526,
+        "duration" : 351
+      }
+    }, {
+      "uid" : "7394d0c94f9d28a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493860244,
+        "stop" : 1674493860644,
+        "duration" : 400
+      }
+    }, {
+      "uid" : "45edfb142af1491e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674446625406,
+        "stop" : 1674446625525,
+        "duration" : 119
+      }
+    }, {
+      "uid" : "9c4b99650b74ca2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674446273595,
+        "stop" : 1674446273959,
+        "duration" : 364
+      }
+    } ]
+  },
+  "18e566064506fbfc45b9592f03e94f81" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "edbbad63ff1d4d0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674597391388,
+        "stop" : 1674597392372,
+        "duration" : 984
+      }
+    } ]
+  },
+  "1e618f3704da1a98c05743f8a2b30240" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 14,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "c91e97a5ae18ee0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674597924116,
+        "stop" : 1674597924559,
+        "duration" : 443
+      }
+    }, {
+      "uid" : "efbfc8146fb723cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674594186993,
+        "stop" : 1674594187341,
+        "duration" : 348
+      }
+    }, {
+      "uid" : "259b97e313620d2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537436849,
+        "stop" : 1674537437214,
+        "duration" : 365
+      }
+    }, {
+      "uid" : "fe63093192a4b61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537436849,
+        "stop" : 1674537437214,
+        "duration" : 365
+      }
+    }, {
+      "uid" : "40ca8d70e96fd4b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537436849,
+        "stop" : 1674537437214,
+        "duration" : 365
+      }
+    }, {
+      "uid" : "d7ce8e7f755fef54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537436849,
+        "stop" : 1674537437214,
+        "duration" : 365
+      }
+    }, {
+      "uid" : "13528db51ed5db6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537436849,
+        "stop" : 1674537437214,
+        "duration" : 365
+      }
+    }, {
+      "uid" : "b924b2231706a775",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537436849,
+        "stop" : 1674537437214,
+        "duration" : 365
+      }
+    }, {
+      "uid" : "34aafa9136965593",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537436849,
+        "stop" : 1674537437214,
+        "duration" : 365
+      }
+    }, {
+      "uid" : "963a6825ee5eb193",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537436849,
+        "stop" : 1674537437214,
+        "duration" : 365
+      }
+    }, {
+      "uid" : "73f0fb8499979f8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537436849,
+        "stop" : 1674537437214,
+        "duration" : 365
+      }
+    }, {
+      "uid" : "ceceb723c86eccf8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537436849,
+        "stop" : 1674537437214,
+        "duration" : 365
+      }
+    }, {
+      "uid" : "3a0e4aa730514398",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493865544,
+        "stop" : 1674493866408,
+        "duration" : 864
+      }
+    }, {
+      "uid" : "745e3d2fb1e49bcb",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for invisibility of [[ChromeDriver: chrome on WINDOWS (2cd725c67284eab7cebb57684e7eb32c)] -> xpath: //span[@class='shopping_cart_badge']] (tried for 60 second(s) with 500 milliseconds interval)\nBuild info: version: '4.1.0', revision: '87802e897b'\nSystem info: host: 'LAPTOP-7B3LLLRV', ip: '192.168.100.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\JOSEDE~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:52559}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52559/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 2cd725c67284eab7cebb57684e7eb32c",
+      "time" : {
+        "start" : 1674446627935,
+        "stop" : 1674446688526,
+        "duration" : 60591
+      }
+    }, {
+      "uid" : "5b35d489778235f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674446278276,
+        "stop" : 1674446278743,
+        "duration" : 467
+      }
+    } ]
+  },
+  "662e66fbf70d5cfa871a3adeb38477f1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "107a50a8c41e41d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674598011809,
+        "stop" : 1674598012917,
+        "duration" : 1108
+      }
+    } ]
+  },
+  "5249048f27055a27f28545f83a9d36a3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "32a847c46229c8aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674598006376,
+        "stop" : 1674598007379,
+        "duration" : 1003
+      }
+    } ]
+  },
+  "d24d356ccbc23b58ef2f21142d2b6ca8" : {
+    "statistic" : {
+      "failed" : 4,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 11
+    },
+    "items" : [ {
+      "uid" : "cb0e9253ac85e7dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674592234918,
+        "stop" : 1674592236991,
+        "duration" : 2073
+      }
+    }, {
+      "uid" : "956ffbd8fc9c75f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674592234918,
+        "stop" : 1674592236991,
+        "duration" : 2073
+      }
+    }, {
+      "uid" : "2b283c8e397c9453",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674592234918,
+        "stop" : 1674592236991,
+        "duration" : 2073
+      }
+    }, {
+      "uid" : "17479048fb49cf4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674592234918,
+        "stop" : 1674592236991,
+        "duration" : 2073
+      }
+    }, {
+      "uid" : "63b179f1fb9a1976",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674543065660,
+        "stop" : 1674543067150,
+        "duration" : 1490
+      }
+    }, {
+      "uid" : "6c1dc9f1e874b79f",
+      "status" : "failed",
+      "statusDetails" : "Epic sadface: Username and password do not match any user in this service != Epicsadface: Username and password do not match any user in this service",
+      "time" : {
+        "start" : 1674542865350,
+        "stop" : 1674542866719,
+        "duration" : 1369
+      }
+    }, {
+      "uid" : "37ba65485b6613b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674542698989,
+        "stop" : 1674542700613,
+        "duration" : 1624
+      }
+    }, {
+      "uid" : "2d057831d20d2944",
+      "status" : "failed",
+      "statusDetails" : " != Epic sadface: Username and password do not match any user in this service",
+      "time" : {
+        "start" : 1674542419222,
+        "stop" : 1674542420698,
+        "duration" : 1476
+      }
+    }, {
+      "uid" : "85324daf37ee5cac",
+      "status" : "failed",
+      "statusDetails" : " != Epic sadface: Username and password do not match any user in this service",
+      "time" : {
+        "start" : 1674542051682,
+        "stop" : 1674542053096,
+        "duration" : 1414
+      }
+    }, {
+      "uid" : "9f95f85fdbd2a20e",
+      "status" : "failed",
+      "statusDetails" : "null",
+      "time" : {
+        "start" : 1674541726990,
+        "stop" : 1674541728412,
+        "duration" : 1422
+      }
+    }, {
+      "uid" : "9963dcab1665b423",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674540863544,
+        "stop" : 1674540865607,
+        "duration" : 2063
+      }
+    } ]
+  },
+  "7eb35fea5a39b776c92abc3849a8821b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 12,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "a1d88c9df24e0a6e",
+      "status" : "broken",
+      "statusDetails" : "\nCannot inject @Test annotated Method [incorrectLoginTest] with [class entity.Customer].\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1674538225134,
+        "stop" : 1674538225134,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "cba8cc7697d423c8",
+      "status" : "broken",
+      "statusDetails" : "\nCannot inject @Test annotated Method [incorrectLoginTest] with [class entity.Customer].\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1674538225134,
+        "stop" : 1674538225134,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d925fd6d46ac3ac4",
+      "status" : "broken",
+      "statusDetails" : "\nCannot inject @Test annotated Method [incorrectLoginTest] with [class entity.Customer].\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1674538225134,
+        "stop" : 1674538225134,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "cbefc0abb5db925f",
+      "status" : "broken",
+      "statusDetails" : "\nCannot inject @Test annotated Method [incorrectLoginTest] with [class entity.Customer].\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1674538225134,
+        "stop" : 1674538225134,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7fa553459e798e16",
+      "status" : "broken",
+      "statusDetails" : "\nCannot inject @Test annotated Method [incorrectLoginTest] with [class entity.Customer].\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1674538225134,
+        "stop" : 1674538225134,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a93d6583a2a6647a",
+      "status" : "broken",
+      "statusDetails" : "\nCannot inject @Test annotated Method [incorrectLoginTest] with [class entity.Customer].\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1674538225134,
+        "stop" : 1674538225134,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "38cc66e62a66aa30",
+      "status" : "broken",
+      "statusDetails" : "\nCannot inject @Test annotated Method [incorrectLoginTest] with [class entity.Customer].\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1674538225134,
+        "stop" : 1674538225134,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e7b485992f89f4a4",
+      "status" : "broken",
+      "statusDetails" : "\nCannot inject @Test annotated Method [incorrectLoginTest] with [class entity.Customer].\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1674538225134,
+        "stop" : 1674538225134,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8569f6c552d9001b",
+      "status" : "broken",
+      "statusDetails" : "\nCannot inject @Test annotated Method [incorrectLoginTest] with [class entity.Customer].\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1674538225134,
+        "stop" : 1674538225134,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4a0fe69e234252d3",
+      "status" : "broken",
+      "statusDetails" : "\nCannot inject @Test annotated Method [incorrectLoginTest] with [class entity.Customer].\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1674538225134,
+        "stop" : 1674538225134,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1ee8e4eb5cfbc7b7",
+      "status" : "broken",
+      "statusDetails" : "\nCannot inject @Test annotated Method [incorrectLoginTest] with [class entity.Customer].\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1674538225134,
+        "stop" : 1674538225134,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e000684f17596cda",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for invisibility of [[ChromeDriver: chrome on WINDOWS (2b96a4ff28d9a2ac4f3c3cb12c2a668c)] -> xpath: //span[@class='title']] (tried for 60 second(s) with 500 milliseconds interval)\nBuild info: version: '4.1.0', revision: '87802e897b'\nSystem info: host: 'LAPTOP-7B3LLLRV', ip: '192.168.100.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\JOSEDE~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:62404}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62404/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 2b96a4ff28d9a2ac4f3c3cb12c2a668c",
+      "time" : {
+        "start" : 1674537472153,
+        "stop" : 1674537533760,
+        "duration" : 61607
+      }
+    } ]
+  },
+  "6911cc5dc8b191c370352720f18f7e38" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "8abc76db718fe573",
+      "status" : "failed",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //h3[contains(text(),'Epic sadface: Username and password do not match any user in this service')]' (tried for 60 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1674597936136,
+        "stop" : 1674597999294,
+        "duration" : 63158
+      }
+    }, {
+      "uid" : "9a28669a6b6066cb",
+      "status" : "failed",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //h3[contains(text(),'Epic sadface: Username and password do not match any user in this service')]' (tried for 60 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1674594199708,
+        "stop" : 1674594263802,
+        "duration" : 64094
+      }
+    } ]
+  },
+  "a62430e7b03c1e52162f72c9538e6de1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 17,
+      "unknown" : 0,
+      "total" : 17
+    },
+    "items" : [ {
+      "uid" : "1665ab80df334070",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493878312,
+        "stop" : 1674493881972,
+        "duration" : 3660
+      }
+    }, {
+      "uid" : "692d74b071a52aec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493878312,
+        "stop" : 1674493881972,
+        "duration" : 3660
+      }
+    }, {
+      "uid" : "60c2a4fd7858a4da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493878312,
+        "stop" : 1674493881972,
+        "duration" : 3660
+      }
+    }, {
+      "uid" : "fb73a36b8df6a0e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493878312,
+        "stop" : 1674493881972,
+        "duration" : 3660
+      }
+    }, {
+      "uid" : "fa4caf0ce6a5b1bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493878312,
+        "stop" : 1674493881972,
+        "duration" : 3660
+      }
+    }, {
+      "uid" : "24ccfd38e9346305",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493878312,
+        "stop" : 1674493881972,
+        "duration" : 3660
+      }
+    }, {
+      "uid" : "c18a679400818c3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493878312,
+        "stop" : 1674493881972,
+        "duration" : 3660
+      }
+    }, {
+      "uid" : "fd98ad9758cac47b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493878312,
+        "stop" : 1674493881972,
+        "duration" : 3660
+      }
+    }, {
+      "uid" : "2e609bd4601f1eb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493878312,
+        "stop" : 1674493881972,
+        "duration" : 3660
+      }
+    }, {
+      "uid" : "b5dad4503f3928be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493878312,
+        "stop" : 1674493881972,
+        "duration" : 3660
+      }
+    }, {
+      "uid" : "e88291a2e6d79cf5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493878312,
+        "stop" : 1674493881972,
+        "duration" : 3660
+      }
+    }, {
+      "uid" : "7fa6a30ee0a4e23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493878312,
+        "stop" : 1674493881972,
+        "duration" : 3660
+      }
+    }, {
+      "uid" : "ffa827d2536c33be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493878312,
+        "stop" : 1674493881972,
+        "duration" : 3660
+      }
+    }, {
+      "uid" : "c53c0802d17e2039",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674446693989,
+        "stop" : 1674446694974,
+        "duration" : 985
+      }
+    }, {
+      "uid" : "ace533b7fa359b22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674446288755,
+        "stop" : 1674446291824,
+        "duration" : 3069
+      }
+    }, {
+      "uid" : "21a96abbb43288f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674443105430,
+        "stop" : 1674443107469,
+        "duration" : 2039
+      }
+    }, {
+      "uid" : "17744be8a97f1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674438566698,
+        "stop" : 1674438568524,
+        "duration" : 1826
+      }
+    } ]
+  }
+}

@@ -1,0 +1,7 @@
+#Custom
+.DS_Store
+.idea
+.allure-results/
+.allure-report/
+target/
+*.mov

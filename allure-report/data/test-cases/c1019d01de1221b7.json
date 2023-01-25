@@ -1,0 +1,158 @@
+{
+  "uid" : "c1019d01de1221b7",
+  "name" : "Utilizar credenciales válidas",
+  "fullName" : "tests.Login.loginTest",
+  "historyId" : "cbc5eb8b0230e09adf48a2a70f86246",
+  "time" : {
+    "start" : 1674493853359,
+    "stop" : 1674493855532,
+    "duration" : 2173
+  },
+  "description" : "Introducir credenciales validad en la pagina de login",
+  "descriptionHtml" : "<p>Introducir credenciales validad en la pagina de login</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "disableAutoLogin",
+    "time" : {
+      "start" : 1674493840655,
+      "stop" : 1674493840671,
+      "duration" : 16
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1674493840733,
+      "stop" : 1674493852998,
+      "duration" : 12265
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Introducir credenciales validad en la pagina de login",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "ingresando usuario y contraseña",
+      "time" : {
+        "start" : 1674493854547,
+        "stop" : 1674493855466,
+        "duration" : 919
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Validar que se hizo login",
+      "time" : {
+        "start" : 1674493855474,
+        "stop" : 1674493855532,
+        "duration" : 58
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1674493881980,
+      "stop" : 1674493883187,
+      "duration" : 1207
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.Login"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.Login"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.Login"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-7B3LLLRV"
+  }, {
+    "name" : "thread",
+    "value" : "12268@LAPTOP-7B3LLLRV.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1019d01de1221b7.json",
+  "parameterValues" : [ ]
+}

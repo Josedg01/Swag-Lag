@@ -1,0 +1,186 @@
+{
+  "uid" : "267cc2e54f08fdcc",
+  "name" : "remover producto",
+  "fullName" : "tests.RemoveItemFromCart.removeItemFromCart",
+  "historyId" : "1e618f3704da1a98c05743f8a2b30240",
+  "time" : {
+    "start" : 1674537436849,
+    "stop" : 1674537437214,
+    "duration" : 365
+  },
+  "description" : "remover producto del carrito",
+  "descriptionHtml" : "<p>remover producto del carrito</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1674537433534,
+      "stop" : 1674537436844,
+      "duration" : 3310
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "ingresando usuario y contraseña",
+      "time" : {
+        "start" : 1674537436188,
+        "stop" : 1674537436799,
+        "duration" : 611
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Validar que se hizo login",
+      "time" : {
+        "start" : 1674537436799,
+        "stop" : 1674537436844,
+        "duration" : 45
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 2
+  } ],
+  "testStage" : {
+    "description" : "remover producto del carrito",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Agregar producto al carrito",
+      "time" : {
+        "start" : 1674537436850,
+        "stop" : 1674537436964,
+        "duration" : 114
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Verificar cartBadge",
+      "time" : {
+        "start" : 1674537436965,
+        "stop" : 1674537436995,
+        "duration" : 30
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Remover producto del carrito",
+      "time" : {
+        "start" : 1674537436995,
+        "stop" : 1674537437127,
+        "duration" : 132
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Vericar que no hay productos en el carrito",
+      "time" : {
+        "start" : 1674537437128,
+        "stop" : 1674537437214,
+        "duration" : 86
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.RemoveItemFromCart"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.RemoveItemFromCart"
+  }, {
+    "name" : "testMethod",
+    "value" : "removeItemFromCart"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.RemoveItemFromCart"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-7B3LLLRV"
+  }, {
+    "name" : "thread",
+    "value" : "17708@LAPTOP-7B3LLLRV.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "267cc2e54f08fdcc.json",
+  "parameterValues" : [ ]
+}

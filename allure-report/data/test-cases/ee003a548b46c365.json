@@ -1,0 +1,409 @@
+{
+  "uid" : "ee003a548b46c365",
+  "name" : "remover producto",
+  "fullName" : "tests.RemoveItemFromCart.removeItemFromCart",
+  "historyId" : "1e618f3704da1a98c05743f8a2b30240",
+  "time" : {
+    "start" : 1674597924116,
+    "stop" : 1674597924559,
+    "duration" : 443
+  },
+  "description" : "remover producto del carrito",
+  "descriptionHtml" : "<p>remover producto del carrito</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 9,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1674597920776,
+      "stop" : 1674597924109,
+      "duration" : 3333
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "ingresando usuario y contraseña",
+      "time" : {
+        "start" : 1674597923296,
+        "stop" : 1674597923997,
+        "duration" : 701
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Validar que se hizo login",
+      "time" : {
+        "start" : 1674597923998,
+        "stop" : 1674597924109,
+        "duration" : 111
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 2
+  } ],
+  "testStage" : {
+    "description" : "remover producto del carrito",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Agregar producto al carrito",
+      "time" : {
+        "start" : 1674597924119,
+        "stop" : 1674597924239,
+        "duration" : 120
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Verificar cartBadge",
+      "time" : {
+        "start" : 1674597924239,
+        "stop" : 1674597924268,
+        "duration" : 29
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Remover producto del carrito",
+      "time" : {
+        "start" : 1674597924268,
+        "stop" : 1674597924523,
+        "duration" : 255
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Vericar que no hay productos en el carrito",
+      "time" : {
+        "start" : 1674597924523,
+        "stop" : 1674597924559,
+        "duration" : 36
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1674598012921,
+      "stop" : 1674598014264,
+      "duration" : 1343
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.RemoveItemFromCart"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.RemoveItemFromCart"
+  }, {
+    "name" : "testMethod",
+    "value" : "removeItemFromCart"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.RemoveItemFromCart"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-7B3LLLRV"
+  }, {
+    "name" : "thread",
+    "value" : "29364@LAPTOP-7B3LLLRV.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a9c3e9d6123e89ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674594186993,
+        "stop" : 1674594187341,
+        "duration" : 348
+      }
+    }, {
+      "uid" : "8958f8ae0e048793",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674594094252,
+        "stop" : 1674594094891,
+        "duration" : 639
+      }
+    }, {
+      "uid" : "267cc2e54f08fdcc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674537436849,
+        "stop" : 1674537437214,
+        "duration" : 365
+      }
+    }, {
+      "uid" : "10ecb6157084ab95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674493865544,
+        "stop" : 1674493866408,
+        "duration" : 864
+      }
+    }, {
+      "uid" : "5598746b478a3a41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674446863284,
+        "stop" : 1674446863536,
+        "duration" : 252
+      }
+    }, {
+      "uid" : "53a1a50c0df22fea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674446832426,
+        "stop" : 1674446832761,
+        "duration" : 335
+      }
+    }, {
+      "uid" : "e8ff03f16d12fa74",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for invisibility of [[ChromeDriver: chrome on WINDOWS (2cd725c67284eab7cebb57684e7eb32c)] -> xpath: //span[@class='shopping_cart_badge']] (tried for 60 second(s) with 500 milliseconds interval)\nBuild info: version: '4.1.0', revision: '87802e897b'\nSystem info: host: 'LAPTOP-7B3LLLRV', ip: '192.168.100.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\JOSEDE~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:52559}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52559/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 2cd725c67284eab7cebb57684e7eb32c",
+      "time" : {
+        "start" : 1674446627935,
+        "stop" : 1674446688526,
+        "duration" : 60591
+      }
+    }, {
+      "uid" : "6e4573334281b4d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674446551883,
+        "stop" : 1674446552589,
+        "duration" : 706
+      }
+    }, {
+      "uid" : "f9116636d311cc5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674446278276,
+        "stop" : 1674446278743,
+        "duration" : 467
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 15,
+        "unknown" : 0,
+        "total" : 16
+      },
+      "items" : [ {
+        "uid" : "c91e97a5ae18ee0a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674597924116,
+          "stop" : 1674597924559,
+          "duration" : 443
+        }
+      }, {
+        "uid" : "efbfc8146fb723cc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674594186993,
+          "stop" : 1674594187341,
+          "duration" : 348
+        }
+      }, {
+        "uid" : "259b97e313620d2e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674537436849,
+          "stop" : 1674537437214,
+          "duration" : 365
+        }
+      }, {
+        "uid" : "fe63093192a4b61",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674537436849,
+          "stop" : 1674537437214,
+          "duration" : 365
+        }
+      }, {
+        "uid" : "40ca8d70e96fd4b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674537436849,
+          "stop" : 1674537437214,
+          "duration" : 365
+        }
+      }, {
+        "uid" : "d7ce8e7f755fef54",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674537436849,
+          "stop" : 1674537437214,
+          "duration" : 365
+        }
+      }, {
+        "uid" : "13528db51ed5db6d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674537436849,
+          "stop" : 1674537437214,
+          "duration" : 365
+        }
+      }, {
+        "uid" : "b924b2231706a775",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674537436849,
+          "stop" : 1674537437214,
+          "duration" : 365
+        }
+      }, {
+        "uid" : "34aafa9136965593",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674537436849,
+          "stop" : 1674537437214,
+          "duration" : 365
+        }
+      }, {
+        "uid" : "963a6825ee5eb193",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674537436849,
+          "stop" : 1674537437214,
+          "duration" : 365
+        }
+      }, {
+        "uid" : "73f0fb8499979f8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674537436849,
+          "stop" : 1674537437214,
+          "duration" : 365
+        }
+      }, {
+        "uid" : "ceceb723c86eccf8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674537436849,
+          "stop" : 1674537437214,
+          "duration" : 365
+        }
+      }, {
+        "uid" : "3a0e4aa730514398",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674493865544,
+          "stop" : 1674493866408,
+          "duration" : 864
+        }
+      }, {
+        "uid" : "745e3d2fb1e49bcb",
+        "status" : "broken",
+        "statusDetails" : "Expected condition failed: waiting for invisibility of [[ChromeDriver: chrome on WINDOWS (2cd725c67284eab7cebb57684e7eb32c)] -> xpath: //span[@class='shopping_cart_badge']] (tried for 60 second(s) with 500 milliseconds interval)\nBuild info: version: '4.1.0', revision: '87802e897b'\nSystem info: host: 'LAPTOP-7B3LLLRV', ip: '192.168.100.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\JOSEDE~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:52559}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52559/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 2cd725c67284eab7cebb57684e7eb32c",
+        "time" : {
+          "start" : 1674446627935,
+          "stop" : 1674446688526,
+          "duration" : 60591
+        }
+      }, {
+        "uid" : "5b35d489778235f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446278276,
+          "stop" : 1674446278743,
+          "duration" : 467
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ee003a548b46c365.json",
+  "parameterValues" : [ ]
+}

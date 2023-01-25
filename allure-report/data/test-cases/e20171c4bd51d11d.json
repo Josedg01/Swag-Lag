@@ -1,0 +1,174 @@
+{
+  "uid" : "e20171c4bd51d11d",
+  "name" : "logout",
+  "fullName" : "tests.Logout.logout",
+  "historyId" : "f982ce13c46f695f94d818acc89be5d6",
+  "time" : {
+    "start" : 1674618202379,
+    "stop" : 1674618203251,
+    "duration" : 872
+  },
+  "description" : "Hacer logout",
+  "descriptionHtml" : "<p>Hacer logout</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1674618191990,
+      "stop" : 1674618202103,
+      "duration" : 10113
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "ingresando usuario y contraseña",
+      "time" : {
+        "start" : 1674618201402,
+        "stop" : 1674618202034,
+        "duration" : 632
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Validar que se hizo login",
+      "time" : {
+        "start" : 1674618202034,
+        "stop" : 1674618202103,
+        "duration" : 69
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 2
+  } ],
+  "testStage" : {
+    "description" : "Hacer logout",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Haciendo logout",
+      "time" : {
+        "start" : 1674618202387,
+        "stop" : 1674618203209,
+        "duration" : 822
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Validar que se hizo login",
+      "time" : {
+        "start" : 1674618203209,
+        "stop" : 1674618203243,
+        "duration" : 34
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1674618203259,
+      "stop" : 1674618204073,
+      "duration" : 814
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "logout"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationOfSwagLabs"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.Logout"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-7B3LLLRV"
+  }, {
+    "name" : "thread",
+    "value" : "25348@LAPTOP-7B3LLLRV.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e20171c4bd51d11d.json",
+  "parameterValues" : [ ]
+}

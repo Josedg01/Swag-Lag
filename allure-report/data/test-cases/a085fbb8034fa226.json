@@ -1,0 +1,271 @@
+{
+  "uid" : "a085fbb8034fa226",
+  "name" : "Checkout sin nombre",
+  "fullName" : "tests.CheckoutWithoutName.checkoutWithouName",
+  "historyId" : "18e566064506fbfc45b9592f03e94f81",
+  "time" : {
+    "start" : 1674597391388,
+    "stop" : 1674597392372,
+    "duration" : 984
+  },
+  "description" : "Tratar de hacer checkout sin colocar el nombre del cliente en la página de your information.",
+  "descriptionHtml" : "<p>Tratar de hacer checkout sin colocar el nombre del cliente en la página de your information.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1674597381935,
+      "stop" : 1674597391171,
+      "duration" : 9236
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "ingresando usuario y contraseña",
+      "time" : {
+        "start" : 1674597390096,
+        "stop" : 1674597391133,
+        "duration" : 1037
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Validar que se hizo login",
+      "time" : {
+        "start" : 1674597391134,
+        "stop" : 1674597391170,
+        "duration" : 36
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 2
+  } ],
+  "testStage" : {
+    "description" : "Tratar de hacer checkout sin colocar el nombre del cliente en la página de your information.",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Agregar producto al carrito",
+      "time" : {
+        "start" : 1674597391390,
+        "stop" : 1674597391501,
+        "duration" : 111
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Ir al carrito",
+      "time" : {
+        "start" : 1674597391501,
+        "stop" : 1674597391624,
+        "duration" : 123
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Verificar cartBadge",
+      "time" : {
+        "start" : 1674597391625,
+        "stop" : 1674597391661,
+        "duration" : 36
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Validar que se esta en Your cart page",
+      "time" : {
+        "start" : 1674597391661,
+        "stop" : 1674597391699,
+        "duration" : 38
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Proceder al checkout",
+      "time" : {
+        "start" : 1674597391700,
+        "stop" : 1674597391850,
+        "duration" : 150
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Validar que se esta en checkout page",
+      "time" : {
+        "start" : 1674597391870,
+        "stop" : 1674597391900,
+        "duration" : 30
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "haciendo checkout sin introducir el nombre",
+      "time" : {
+        "start" : 1674597391907,
+        "stop" : 1674597392368,
+        "duration" : 461
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "customer",
+        "value" : "Customer(incorrectUser=standard_user, incorrectPassword=secret_sauce, customerName=Albert, customerLastname=Thomas, zipCode=1111)"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 7
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1674597392372,
+      "stop" : 1674597393172,
+      "duration" : 800
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.CheckoutWithoutName"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.CheckoutWithoutName"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkoutWithouName"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationOfSwagLabs"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.CheckoutWithoutName"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-7B3LLLRV"
+  }, {
+    "name" : "thread",
+    "value" : "28948@LAPTOP-7B3LLLRV.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "edbbad63ff1d4d0e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674597391388,
+          "stop" : 1674597392372,
+          "duration" : 984
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a085fbb8034fa226.json",
+  "parameterValues" : [ ]
+}

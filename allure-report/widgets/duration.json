@@ -1,0 +1,141 @@
+[ {
+  "uid" : "e20171c4bd51d11d",
+  "name" : "logout",
+  "time" : {
+    "start" : 1674618202379,
+    "stop" : 1674618203251,
+    "duration" : 872
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "f70b8e1779892540",
+  "name" : "Utilizar credenciales no válidas",
+  "time" : {
+    "start" : 1674597936136,
+    "stop" : 1674597999294,
+    "duration" : 63158
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a29a9b0156bddfe1",
+  "name" : "Utilizar credenciales no válidas",
+  "time" : {
+    "start" : 1674592234918,
+    "stop" : 1674592236991,
+    "duration" : 2073
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77f42cabaef13e0a",
+  "name" : "Utilizar credenciales válidas",
+  "time" : {
+    "start" : 1674597915047,
+    "stop" : 1674597917488,
+    "duration" : 2441
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "cc1fc57cf2e8de0b",
+  "name" : "Checkout sin zip code",
+  "time" : {
+    "start" : 1674598011809,
+    "stop" : 1674598012917,
+    "duration" : 1108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "942cd00392c08bba",
+  "name" : "Checkout sin apellido",
+  "time" : {
+    "start" : 1674598006376,
+    "stop" : 1674598007379,
+    "duration" : 1003
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "224ccb17e88dc483",
+  "name" : "Agregar producto",
+  "time" : {
+    "start" : 1674597920607,
+    "stop" : 1674597920772,
+    "duration" : 165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2284264d37ec488f",
+  "name" : "Comprar producto",
+  "time" : {
+    "start" : 1674493878312,
+    "stop" : 1674493881972,
+    "duration" : 3660
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a085fbb8034fa226",
+  "name" : "Checkout sin nombre",
+  "time" : {
+    "start" : 1674597391388,
+    "stop" : 1674597392372,
+    "duration" : 984
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc1733502d51f7c3",
+  "name" : "Comprar producto",
+  "time" : {
+    "start" : 1674597932028,
+    "stop" : 1674597934014,
+    "duration" : 1986
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4804e790dd531cb8",
+  "name" : "Checkout sin nombre",
+  "time" : {
+    "start" : 1674598002235,
+    "stop" : 1674598003085,
+    "duration" : 850
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d42f01d09358ab7b",
+  "name" : "remover producto",
+  "time" : {
+    "start" : 1674597927840,
+    "stop" : 1674597928633,
+    "duration" : 793
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee003a548b46c365",
+  "name" : "remover producto",
+  "time" : {
+    "start" : 1674597924116,
+    "stop" : 1674597924559,
+    "duration" : 443
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c1b5d85f5c7e70b",
+  "name" : "Utilizar credenciales no válidas",
+  "time" : {
+    "start" : 1674538225134,
+    "stop" : 1674538225134,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

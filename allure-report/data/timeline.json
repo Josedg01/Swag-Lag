@@ -1,0 +1,1361 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-7B3LLLRV",
+    "children" : [ {
+      "name" : "16972@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales válidas",
+        "uid" : "281f243b6d83b13c",
+        "parentUid" : "05adc8b2d66101cb95554a1c5f53eee1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446856077,
+          "stop" : 1674446857488,
+          "duration" : 1411
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "remover producto",
+        "uid" : "dc676aea18330a6f",
+        "parentUid" : "05adc8b2d66101cb95554a1c5f53eee1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446866421,
+          "stop" : 1674446866762,
+          "duration" : 341
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Comprar producto",
+        "uid" : "8537017f93df2316",
+        "parentUid" : "05adc8b2d66101cb95554a1c5f53eee1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446869483,
+          "stop" : 1674446870716,
+          "duration" : 1233
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Customer(customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      }, {
+        "name" : "Agregar producto",
+        "uid" : "3f3e345fe69e55c6",
+        "parentUid" : "05adc8b2d66101cb95554a1c5f53eee1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446860011,
+          "stop" : 1674446860172,
+          "duration" : 161
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "remover producto",
+        "uid" : "5598746b478a3a41",
+        "parentUid" : "05adc8b2d66101cb95554a1c5f53eee1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446863284,
+          "stop" : 1674446863536,
+          "duration" : 252
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "05adc8b2d66101cb95554a1c5f53eee1"
+    }, {
+      "name" : "17708@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Agregar producto",
+        "uid" : "6c00957d83e324d6",
+        "parentUid" : "07a143dc5a560c03a64e7a0c60669450",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674537433175,
+          "stop" : 1674537433526,
+          "duration" : 351
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Utilizar credenciales válidas",
+        "uid" : "16a925996b57f07e",
+        "parentUid" : "07a143dc5a560c03a64e7a0c60669450",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674537427961,
+          "stop" : 1674537429619,
+          "duration" : 1658
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "remover producto",
+        "uid" : "267cc2e54f08fdcc",
+        "parentUid" : "07a143dc5a560c03a64e7a0c60669450",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674537436849,
+          "stop" : 1674537437214,
+          "duration" : 365
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "07a143dc5a560c03a64e7a0c60669450"
+    }, {
+      "name" : "30652@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales válidas",
+        "uid" : "85cf7dd6c581c091",
+        "parentUid" : "2082e27e9a443235d1d4ce2b7b2ac48f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446543508,
+          "stop" : 1674446544964,
+          "duration" : 1456
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "remover producto",
+        "uid" : "959901605af70bc2",
+        "parentUid" : "2082e27e9a443235d1d4ce2b7b2ac48f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446556148,
+          "stop" : 1674446556873,
+          "duration" : 725
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Agregar producto",
+        "uid" : "3c420452a640825f",
+        "parentUid" : "2082e27e9a443235d1d4ce2b7b2ac48f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446548554,
+          "stop" : 1674446548723,
+          "duration" : 169
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "remover producto",
+        "uid" : "6e4573334281b4d6",
+        "parentUid" : "2082e27e9a443235d1d4ce2b7b2ac48f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446551883,
+          "stop" : 1674446552589,
+          "duration" : 706
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Comprar producto",
+        "uid" : "319277c7515e485",
+        "parentUid" : "2082e27e9a443235d1d4ce2b7b2ac48f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446561217,
+          "stop" : 1674446562997,
+          "duration" : 1780
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Customer(customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      } ],
+      "uid" : "2082e27e9a443235d1d4ce2b7b2ac48f"
+    }, {
+      "name" : "10048@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "remover producto",
+        "uid" : "a9c3e9d6123e89ae",
+        "parentUid" : "d3a169504d0860a0713ede989102cf16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674594186993,
+          "stop" : 1674594187341,
+          "duration" : 348
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Comprar producto",
+        "uid" : "580eb439bfe42a30",
+        "parentUid" : "d3a169504d0860a0713ede989102cf16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674594195753,
+          "stop" : 1674594197459,
+          "duration" : 1706
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Agregar producto",
+        "uid" : "8f506048c5f651ad",
+        "parentUid" : "d3a169504d0860a0713ede989102cf16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674594182880,
+          "stop" : 1674594183248,
+          "duration" : 368
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "remover producto",
+        "uid" : "f5d916cb78351c3b",
+        "parentUid" : "d3a169504d0860a0713ede989102cf16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674594190858,
+          "stop" : 1674594191664,
+          "duration" : 806
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Utilizar credenciales no válidas",
+        "uid" : "739e19377d16cb74",
+        "parentUid" : "d3a169504d0860a0713ede989102cf16",
+        "status" : "failed",
+        "time" : {
+          "start" : 1674594199708,
+          "stop" : 1674594263802,
+          "duration" : 64094
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Utilizar credenciales válidas",
+        "uid" : "56146bfebfe3de0b",
+        "parentUid" : "d3a169504d0860a0713ede989102cf16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674594177980,
+          "stop" : 1674594179582,
+          "duration" : 1602
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d3a169504d0860a0713ede989102cf16"
+    }, {
+      "name" : "6652@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Comprar producto",
+        "uid" : "1ad5f734ceea26c2",
+        "parentUid" : "de2a2f8a95f8922436fbda1579c9b649",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446693989,
+          "stop" : 1674446694974,
+          "duration" : 985
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Customer(customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      }, {
+        "name" : "Agregar producto",
+        "uid" : "3ed51265f50a8ad5",
+        "parentUid" : "de2a2f8a95f8922436fbda1579c9b649",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446625406,
+          "stop" : 1674446625525,
+          "duration" : 119
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "remover producto",
+        "uid" : "e8ff03f16d12fa74",
+        "parentUid" : "de2a2f8a95f8922436fbda1579c9b649",
+        "status" : "broken",
+        "time" : {
+          "start" : 1674446627935,
+          "stop" : 1674446688526,
+          "duration" : 60591
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "remover producto",
+        "uid" : "7e6069fff5f8d037",
+        "parentUid" : "de2a2f8a95f8922436fbda1579c9b649",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446690913,
+          "stop" : 1674446691219,
+          "duration" : 306
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Utilizar credenciales válidas",
+        "uid" : "1347c3b16e93ecda",
+        "parentUid" : "de2a2f8a95f8922436fbda1579c9b649",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446619112,
+          "stop" : 1674446622898,
+          "duration" : 3786
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "de2a2f8a95f8922436fbda1579c9b649"
+    }, {
+      "name" : "20260@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales no válidas",
+        "uid" : "6c51ffcfd383c973",
+        "parentUid" : "702b48eecdf362d0647cb84e6a52634d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674538328542,
+          "stop" : 1674538330044,
+          "duration" : 1502
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Customer(incorrectUser=Usuario, incorrectPassword=12456, customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      } ],
+      "uid" : "702b48eecdf362d0647cb84e6a52634d"
+    }, {
+      "name" : "29364@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales válidas",
+        "uid" : "77f42cabaef13e0a",
+        "parentUid" : "13fa9b5e39ff23279ae96e1b21b45c78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674597915047,
+          "stop" : 1674597917488,
+          "duration" : 2441
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 14,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "remover producto",
+        "uid" : "ee003a548b46c365",
+        "parentUid" : "13fa9b5e39ff23279ae96e1b21b45c78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674597924116,
+          "stop" : 1674597924559,
+          "duration" : 443
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 9,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Agregar producto",
+        "uid" : "224ccb17e88dc483",
+        "parentUid" : "13fa9b5e39ff23279ae96e1b21b45c78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674597920607,
+          "stop" : 1674597920772,
+          "duration" : 165
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 9,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Checkout sin apellido",
+        "uid" : "942cd00392c08bba",
+        "parentUid" : "13fa9b5e39ff23279ae96e1b21b45c78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674598006376,
+          "stop" : 1674598007379,
+          "duration" : 1003
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Comprar producto",
+        "uid" : "fc1733502d51f7c3",
+        "parentUid" : "13fa9b5e39ff23279ae96e1b21b45c78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674597932028,
+          "stop" : 1674597934014,
+          "duration" : 1986
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Checkout sin zip code",
+        "uid" : "cc1fc57cf2e8de0b",
+        "parentUid" : "13fa9b5e39ff23279ae96e1b21b45c78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674598011809,
+          "stop" : 1674598012917,
+          "duration" : 1108
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Utilizar credenciales no válidas",
+        "uid" : "f70b8e1779892540",
+        "parentUid" : "13fa9b5e39ff23279ae96e1b21b45c78",
+        "status" : "failed",
+        "time" : {
+          "start" : 1674597936136,
+          "stop" : 1674597999294,
+          "duration" : 63158
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Checkout sin nombre",
+        "uid" : "4804e790dd531cb8",
+        "parentUid" : "13fa9b5e39ff23279ae96e1b21b45c78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674598002235,
+          "stop" : 1674598003085,
+          "duration" : 850
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "remover producto",
+        "uid" : "d42f01d09358ab7b",
+        "parentUid" : "13fa9b5e39ff23279ae96e1b21b45c78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674597927840,
+          "stop" : 1674597928633,
+          "duration" : 793
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 7,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "13fa9b5e39ff23279ae96e1b21b45c78"
+    }, {
+      "name" : "11176@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales no válidas",
+        "uid" : "570cc9be28ad2090",
+        "parentUid" : "96e4e6ace5f120ea1ed17de5b20535e0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1674542865350,
+          "stop" : 1674542866719,
+          "duration" : 1369
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Customer(incorrectUser=Usuario, incorrectPassword=12456, customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      } ],
+      "uid" : "96e4e6ace5f120ea1ed17de5b20535e0"
+    }, {
+      "name" : "25924@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Comprar producto",
+        "uid" : "55c88b24b70979f",
+        "parentUid" : "cdfdbc408724ec2f47d27849f0a56f68",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674438566698,
+          "stop" : 1674438568524,
+          "duration" : 1826
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Customer(customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      } ],
+      "uid" : "cdfdbc408724ec2f47d27849f0a56f68"
+    }, {
+      "name" : "28856@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales válidas",
+        "uid" : "ee116c99fdbbace5",
+        "parentUid" : "3c549b9fb6192ad22aa9c32ee61a02f9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446439021,
+          "stop" : 1674446440478,
+          "duration" : 1457
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3c549b9fb6192ad22aa9c32ee61a02f9"
+    }, {
+      "name" : "17636@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales no válidas",
+        "uid" : "a29a9b0156bddfe1",
+        "parentUid" : "4988eb086268c0e4320f59806beb0092",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674592234918,
+          "stop" : 1674592236991,
+          "duration" : 2073
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 9,
+        "retriesStatusChange" : true,
+        "parameters" : [ "Customer(incorrectUser=Usuario, incorrectPassword=12456, customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      } ],
+      "uid" : "4988eb086268c0e4320f59806beb0092"
+    }, {
+      "name" : "8068@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales no válidas",
+        "uid" : "5c1b5d85f5c7e70b",
+        "parentUid" : "ac4783092c2b906c41af71283e22b746",
+        "status" : "broken",
+        "time" : {
+          "start" : 1674538225134,
+          "stop" : 1674538225134,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ac4783092c2b906c41af71283e22b746"
+    }, {
+      "name" : "20360@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "remover producto",
+        "uid" : "f9116636d311cc5a",
+        "parentUid" : "ace40b4773ec474acc3c0d8cb2d3d203",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446278276,
+          "stop" : 1674446278743,
+          "duration" : 467
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "remover producto",
+        "uid" : "91b896fbc4d06157",
+        "parentUid" : "ace40b4773ec474acc3c0d8cb2d3d203",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446282433,
+          "stop" : 1674446283703,
+          "duration" : 1270
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Comprar producto",
+        "uid" : "5e7f9e6d1ba677f0",
+        "parentUid" : "ace40b4773ec474acc3c0d8cb2d3d203",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446288755,
+          "stop" : 1674446291824,
+          "duration" : 3069
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Customer(customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      }, {
+        "name" : "Agregar producto",
+        "uid" : "a2152643eeae947d",
+        "parentUid" : "ace40b4773ec474acc3c0d8cb2d3d203",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446273595,
+          "stop" : 1674446273959,
+          "duration" : 364
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Utilizar credenciales válidas",
+        "uid" : "1afa8d91fff09184",
+        "parentUid" : "ace40b4773ec474acc3c0d8cb2d3d203",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446268212,
+          "stop" : 1674446270079,
+          "duration" : 1867
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ace40b4773ec474acc3c0d8cb2d3d203"
+    }, {
+      "name" : "18908@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales válidas",
+        "uid" : "5ebcf70293f96798",
+        "parentUid" : "12de94438c71bdcd0fcaccfeb7612814",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446166776,
+          "stop" : 1674446168705,
+          "duration" : 1929
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Agregar producto",
+        "uid" : "489ada08d5d4c0ad",
+        "parentUid" : "12de94438c71bdcd0fcaccfeb7612814",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446173223,
+          "stop" : 1674446173694,
+          "duration" : 471
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "12de94438c71bdcd0fcaccfeb7612814"
+    }, {
+      "name" : "12268@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "remover producto",
+        "uid" : "10ecb6157084ab95",
+        "parentUid" : "0c6a8ccdd9b4df0d5145c2f349a9e4bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674493865544,
+          "stop" : 1674493866408,
+          "duration" : 864
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Agregar producto",
+        "uid" : "52b4039d2eec3e15",
+        "parentUid" : "0c6a8ccdd9b4df0d5145c2f349a9e4bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674493860244,
+          "stop" : 1674493860644,
+          "duration" : 400
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Comprar producto",
+        "uid" : "2284264d37ec488f",
+        "parentUid" : "0c6a8ccdd9b4df0d5145c2f349a9e4bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674493878312,
+          "stop" : 1674493881972,
+          "duration" : 3660
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 6,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Customer(customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      }, {
+        "name" : "remover producto",
+        "uid" : "b12675c2de13ef2",
+        "parentUid" : "0c6a8ccdd9b4df0d5145c2f349a9e4bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674493871171,
+          "stop" : 1674493871920,
+          "duration" : 749
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Utilizar credenciales válidas",
+        "uid" : "c1019d01de1221b7",
+        "parentUid" : "0c6a8ccdd9b4df0d5145c2f349a9e4bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674493853359,
+          "stop" : 1674493855532,
+          "duration" : 2173
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0c6a8ccdd9b4df0d5145c2f349a9e4bf"
+    }, {
+      "name" : "16792@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales no válidas",
+        "uid" : "a8aea4ffd7a98d06",
+        "parentUid" : "de8a24f24aeb485f81fcf2dfa9e42803",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674543065660,
+          "stop" : 1674543067150,
+          "duration" : 1490
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Customer(incorrectUser=Usuario, incorrectPassword=12456, customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      } ],
+      "uid" : "de8a24f24aeb485f81fcf2dfa9e42803"
+    }, {
+      "name" : "17680@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "remover producto",
+        "uid" : "8958f8ae0e048793",
+        "parentUid" : "b57cf25de22e349c575daf0ea2dd1b70",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674594094252,
+          "stop" : 1674594094891,
+          "duration" : 639
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Agregar producto",
+        "uid" : "ab4fca965e6ce5a4",
+        "parentUid" : "b57cf25de22e349c575daf0ea2dd1b70",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674594089375,
+          "stop" : 1674594089711,
+          "duration" : 336
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Comprar producto",
+        "uid" : "86866fa8c82fdeba",
+        "parentUid" : "b57cf25de22e349c575daf0ea2dd1b70",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674594104673,
+          "stop" : 1674594108159,
+          "duration" : 3486
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "remover producto",
+        "uid" : "3a76e21269583447",
+        "parentUid" : "b57cf25de22e349c575daf0ea2dd1b70",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674594098704,
+          "stop" : 1674594100028,
+          "duration" : 1324
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Utilizar credenciales válidas",
+        "uid" : "75a4a9679bdedd27",
+        "parentUid" : "b57cf25de22e349c575daf0ea2dd1b70",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674594084188,
+          "stop" : 1674594086226,
+          "duration" : 2038
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b57cf25de22e349c575daf0ea2dd1b70"
+    }, {
+      "name" : "28948@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Checkout sin nombre",
+        "uid" : "a085fbb8034fa226",
+        "parentUid" : "2b99474982105c247e8403f5aa6fa3e6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674597391388,
+          "stop" : 1674597392372,
+          "duration" : 984
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2b99474982105c247e8403f5aa6fa3e6"
+    }, {
+      "name" : "7712@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales no válidas",
+        "uid" : "b657bf270b8cebe3",
+        "parentUid" : "2580bee3d4cba9e48ce1fb57018a3b56",
+        "status" : "failed",
+        "time" : {
+          "start" : 1674542419222,
+          "stop" : 1674542420698,
+          "duration" : 1476
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Customer(incorrectUser=Usuario, incorrectPassword=12456, customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      } ],
+      "uid" : "2580bee3d4cba9e48ce1fb57018a3b56"
+    }, {
+      "name" : "17912@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales no válidas",
+        "uid" : "e75b3de5548e0d90",
+        "parentUid" : "90ebb8e93e067c2a8c12f635947ad562",
+        "status" : "failed",
+        "time" : {
+          "start" : 1674541726990,
+          "stop" : 1674541728412,
+          "duration" : 1422
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Customer(incorrectUser=Usuario, incorrectPassword=12456, customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      } ],
+      "uid" : "90ebb8e93e067c2a8c12f635947ad562"
+    }, {
+      "name" : "25348@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "logout",
+        "uid" : "e20171c4bd51d11d",
+        "parentUid" : "327a26aa43fa6e9d3d2120570ad80273",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674618202379,
+          "stop" : 1674618203251,
+          "duration" : 872
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "327a26aa43fa6e9d3d2120570ad80273"
+    }, {
+      "name" : "15640@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales no válidas",
+        "uid" : "6bb1fc9a9e867594",
+        "parentUid" : "baf2b04f1b40b78c63bab80917cf923d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1674542051682,
+          "stop" : 1674542053096,
+          "duration" : 1414
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Customer(incorrectUser=Usuario, incorrectPassword=12456, customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      } ],
+      "uid" : "baf2b04f1b40b78c63bab80917cf923d"
+    }, {
+      "name" : "17900@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales no válidas",
+        "uid" : "891e8d13262ce0f9",
+        "parentUid" : "071cf7393f326baaa7ce2c11ce297606",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674542698989,
+          "stop" : 1674542700613,
+          "duration" : 1624
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Customer(incorrectUser=Usuario, incorrectPassword=12456, customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      } ],
+      "uid" : "071cf7393f326baaa7ce2c11ce297606"
+    }, {
+      "name" : "5872@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales no válidas",
+        "uid" : "7edb5ba9f7f8b303",
+        "parentUid" : "cac21a3c70c148f0f1b24878d07882c8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1674543035440,
+          "stop" : 1674543036889,
+          "duration" : 1449
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Customer(incorrectUser=Usuario, incorrectPassword=12456, customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      } ],
+      "uid" : "cac21a3c70c148f0f1b24878d07882c8"
+    }, {
+      "name" : "3668@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales válidas",
+        "uid" : "af096d1820f4f4f8",
+        "parentUid" : "7e4d7549894602b3ebb140ffcef01a18",
+        "status" : "failed",
+        "time" : {
+          "start" : 1674593861266,
+          "stop" : 1674593924312,
+          "duration" : 63046
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7e4d7549894602b3ebb140ffcef01a18"
+    }, {
+      "name" : "9580@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales válidas",
+        "uid" : "a3f8772f1bc03897",
+        "parentUid" : "52045077a93b540e1aa08b2b753dd4c3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1674593511656,
+          "stop" : 1674593574680,
+          "duration" : 63024
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "52045077a93b540e1aa08b2b753dd4c3"
+    }, {
+      "name" : "18956@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales válidas",
+        "uid" : "e507f67e8ef6c651",
+        "parentUid" : "5f073f234441621ad585219210a8bba5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1674592354529,
+          "stop" : 1674592416769,
+          "duration" : 62240
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5f073f234441621ad585219210a8bba5"
+    }, {
+      "name" : "20540@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales no válidas",
+        "uid" : "74cf79ef08d64162",
+        "parentUid" : "2375713f5f67ee43590d5f907d10f1fe",
+        "status" : "broken",
+        "time" : {
+          "start" : 1674537472153,
+          "stop" : 1674537533760,
+          "duration" : 61607
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2375713f5f67ee43590d5f907d10f1fe"
+    }, {
+      "name" : "19144@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "remover producto",
+        "uid" : "53a1a50c0df22fea",
+        "parentUid" : "c03b09d2b1508c0cf9176dc6f0deff16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674446832426,
+          "stop" : 1674446832761,
+          "duration" : 335
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c03b09d2b1508c0cf9176dc6f0deff16"
+    }, {
+      "name" : "21428@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales no válidas",
+        "uid" : "c3cc91d87bffe0ef",
+        "parentUid" : "8715fb35edea99ca189ece1d4d68e622",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674540863544,
+          "stop" : 1674540865607,
+          "duration" : 2063
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Customer(incorrectUser=Usuario, incorrectPassword=12456, customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      } ],
+      "uid" : "8715fb35edea99ca189ece1d4d68e622"
+    }, {
+      "name" : "15068@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Comprar producto",
+        "uid" : "1c77e01e3370a3e6",
+        "parentUid" : "ad5f28c67e03015e79a89b7d10ebc131",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674443105430,
+          "stop" : 1674443107469,
+          "duration" : 2039
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Customer(customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+      } ],
+      "uid" : "ad5f28c67e03015e79a89b7d10ebc131"
+    }, {
+      "name" : "6452@LAPTOP-7B3LLLRV.main(1)",
+      "children" : [ {
+        "name" : "Utilizar credenciales válidas",
+        "uid" : "b64268dc9d74f676",
+        "parentUid" : "f297f52029d0b08cbae6d01af9917528",
+        "status" : "failed",
+        "time" : {
+          "start" : 1674593363181,
+          "stop" : 1674593425283,
+          "duration" : 62102
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f297f52029d0b08cbae6d01af9917528"
+    } ],
+    "uid" : "e648aa73ea5c68e47e45911003063d2f"
+  } ]
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <listeners>
+        <listener class-name="listener.TestListener"/>
+        <listener class-name="listener.ExecutionListener"/>
+    </listeners>
+
+    <test name="Test">
+        <classes>
+            <class name="tests.Login"/>
+            <class name="tests.Logout"/>
+            <class name="tests.AddItemToCart"/>
+            <class name="tests.RemoveItemFromCart"/>
+            <class name="tests.RemoveItemYourCartPage"/>
+            <class name="tests.BuyItem"/>
+            <class name="tests.IncorrectLogin"/>
+            <class name="tests.CheckoutWithoutName"/>
+            <class name="tests.CheckoutWithoutLastname"/>
+            <class name="tests.CheckoutWithoutZipCode"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,164 @@
+{
+  "uid" : "6c51ffcfd383c973",
+  "name" : "Utilizar credenciales no válidas",
+  "fullName" : "tests.IncorrectLogin.incorrectLoginTest",
+  "historyId" : "d24d356ccbc23b58ef2f21142d2b6ca8",
+  "time" : {
+    "start" : 1674538328542,
+    "stop" : 1674538330044,
+    "duration" : 1502
+  },
+  "description" : "Introducir credenciales no validas en la página de login",
+  "descriptionHtml" : "<p>Introducir credenciales no validas en la página de login</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "disableAutoLogin",
+    "time" : {
+      "start" : 1674538323308,
+      "stop" : 1674538323339,
+      "duration" : 31
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1674538323464,
+      "stop" : 1674538328360,
+      "duration" : 4896
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Introducir credenciales no validas en la página de login",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "ingresando usuario y contraseña",
+      "time" : {
+        "start" : 1674538329540,
+        "stop" : 1674538330005,
+        "duration" : 465
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "customer",
+        "value" : "Customer(incorrectUser=Usuario, incorrectPassword=12456, customerName=Albert, customerLastname=Thomas, zipCode=1111)"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Validar que no se hizo login",
+      "time" : {
+        "start" : 1674538330006,
+        "stop" : 1674538330035,
+        "duration" : 29
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1674538330061,
+      "stop" : 1674538330838,
+      "duration" : 777
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.IncorrectLogin"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.IncorrectLogin"
+  }, {
+    "name" : "testMethod",
+    "value" : "incorrectLoginTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationOfSwagLabs"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.IncorrectLogin"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-7B3LLLRV"
+  }, {
+    "name" : "thread",
+    "value" : "20260@LAPTOP-7B3LLLRV.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Customer(incorrectUser=Usuario, incorrectPassword=12456, customerName=Albert, customerLastname=Thomas, zipCode=1111)"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c51ffcfd383c973.json",
+  "parameterValues" : [ "Customer(incorrectUser=Usuario, incorrectPassword=12456, customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+}

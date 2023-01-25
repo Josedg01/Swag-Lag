@@ -1,0 +1,1 @@
+allure generate --clean .\allure-results\ -o .\allure-report\ && allure open .\allure-report\

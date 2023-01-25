@@ -1,0 +1,307 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Test",
+      "children" : [ {
+        "name" : "tests.BuyItem",
+        "children" : [ {
+          "name" : "Comprar producto",
+          "uid" : "2284264d37ec488f",
+          "parentUid" : "10573f1afb639f6ccba6b7c28352cd84",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674493878312,
+            "stop" : 1674493881972,
+            "duration" : 3660
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 6,
+          "retriesStatusChange" : false,
+          "parameters" : [ "Customer(customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+        }, {
+          "name" : "Comprar producto",
+          "uid" : "fc1733502d51f7c3",
+          "parentUid" : "10573f1afb639f6ccba6b7c28352cd84",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674597932028,
+            "stop" : 1674597934014,
+            "duration" : 1986
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 2,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "10573f1afb639f6ccba6b7c28352cd84"
+      }, {
+        "name" : "tests.Login",
+        "children" : [ {
+          "name" : "Utilizar credenciales válidas",
+          "uid" : "77f42cabaef13e0a",
+          "parentUid" : "76036e0c5eb8568b6e25d20679c108bb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674597915047,
+            "stop" : 1674597917488,
+            "duration" : 2441
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 14,
+          "retriesStatusChange" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "76036e0c5eb8568b6e25d20679c108bb"
+      }, {
+        "name" : "tests.AddItemToCart",
+        "children" : [ {
+          "name" : "Agregar producto",
+          "uid" : "224ccb17e88dc483",
+          "parentUid" : "1dfd3f625a73739181d57c4bcff43c98",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674597920607,
+            "stop" : 1674597920772,
+            "duration" : 165
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 9,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1dfd3f625a73739181d57c4bcff43c98"
+      }, {
+        "name" : "tests.RemoveItemFromCart",
+        "children" : [ {
+          "name" : "remover producto",
+          "uid" : "ee003a548b46c365",
+          "parentUid" : "e0cff2969b6e1b54d7827baac7a5e930",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674597924116,
+            "stop" : 1674597924559,
+            "duration" : 443
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 9,
+          "retriesStatusChange" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e0cff2969b6e1b54d7827baac7a5e930"
+      }, {
+        "name" : "tests.RemoveItemYourCartPage",
+        "children" : [ {
+          "name" : "remover producto",
+          "uid" : "d42f01d09358ab7b",
+          "parentUid" : "be13f7426fef057266a428ab1f780c00",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674597927840,
+            "stop" : 1674597928633,
+            "duration" : 793
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 7,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "be13f7426fef057266a428ab1f780c00"
+      }, {
+        "name" : "tests.IncorrectLogin",
+        "children" : [ {
+          "name" : "Utilizar credenciales no válidas",
+          "uid" : "f70b8e1779892540",
+          "parentUid" : "6f1d846c6c69e19abb745d5272e622c3",
+          "status" : "failed",
+          "time" : {
+            "start" : 1674597936136,
+            "stop" : 1674597999294,
+            "duration" : 63158
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 1,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6f1d846c6c69e19abb745d5272e622c3"
+      }, {
+        "name" : "tests.CheckoutWithoutName",
+        "children" : [ {
+          "name" : "Checkout sin nombre",
+          "uid" : "4804e790dd531cb8",
+          "parentUid" : "845f4f528d6d3c0fa730a04604731ace",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674598002235,
+            "stop" : 1674598003085,
+            "duration" : 850
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "845f4f528d6d3c0fa730a04604731ace"
+      }, {
+        "name" : "tests.CheckoutWithoutLastname",
+        "children" : [ {
+          "name" : "Checkout sin apellido",
+          "uid" : "942cd00392c08bba",
+          "parentUid" : "b195e0844a3717f34fc25edd18cd9b83",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674598006376,
+            "stop" : 1674598007379,
+            "duration" : 1003
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b195e0844a3717f34fc25edd18cd9b83"
+      }, {
+        "name" : "tests.CheckoutWithoutZipCode",
+        "children" : [ {
+          "name" : "Checkout sin zip code",
+          "uid" : "cc1fc57cf2e8de0b",
+          "parentUid" : "0b9396e60a00fdcfebc61874b90a30ad",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674598011809,
+            "stop" : 1674598012917,
+            "duration" : 1108
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0b9396e60a00fdcfebc61874b90a30ad"
+      } ],
+      "uid" : "7314231e84d67a341867b5c9d3f928d2"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  }, {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "AutomationOfSwagLabs",
+      "children" : [ {
+        "name" : "tests.IncorrectLogin",
+        "children" : [ {
+          "name" : "Utilizar credenciales no válidas",
+          "uid" : "5c1b5d85f5c7e70b",
+          "parentUid" : "9ea41fc61a173fdfae6eb1991d3f1a1c",
+          "status" : "broken",
+          "time" : {
+            "start" : 1674538225134,
+            "stop" : 1674538225134,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 1,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Utilizar credenciales no válidas",
+          "uid" : "a29a9b0156bddfe1",
+          "parentUid" : "9ea41fc61a173fdfae6eb1991d3f1a1c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674592234918,
+            "stop" : 1674592236991,
+            "duration" : 2073
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 9,
+          "retriesStatusChange" : true,
+          "parameters" : [ "Customer(incorrectUser=Usuario, incorrectPassword=12456, customerName=Albert, customerLastname=Thomas, zipCode=1111)" ]
+        } ],
+        "uid" : "9ea41fc61a173fdfae6eb1991d3f1a1c"
+      }, {
+        "name" : "tests.CheckoutWithoutName",
+        "children" : [ {
+          "name" : "Checkout sin nombre",
+          "uid" : "a085fbb8034fa226",
+          "parentUid" : "f6ce2567ca531c516138f5b870cc4257",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674597391388,
+            "stop" : 1674597392372,
+            "duration" : 984
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f6ce2567ca531c516138f5b870cc4257"
+      }, {
+        "name" : "tests.Logout",
+        "children" : [ {
+          "name" : "logout",
+          "uid" : "e20171c4bd51d11d",
+          "parentUid" : "33fc37002d703ddbfa13e24e8a060d30",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674618202379,
+            "stop" : 1674618203251,
+            "duration" : 872
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "33fc37002d703ddbfa13e24e8a060d30"
+      } ],
+      "uid" : "db908f4b5b6c4b4b7904b1a8e79e5c20"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

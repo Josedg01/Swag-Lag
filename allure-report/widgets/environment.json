@@ -1,0 +1,10 @@
+[ {
+  "values" : [ "CHROME" ],
+  "name" : "Browser"
+}, {
+  "values" : [ "Windows 10" ],
+  "name" : "System"
+}, {
+  "values" : [ "https://www.saucedemo.com/" ],
+  "name" : "URL"
+} ]

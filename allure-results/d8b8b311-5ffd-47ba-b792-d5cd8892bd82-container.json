@@ -1,0 +1,1 @@
+{"uuid":"d8b8b311-5ffd-47ba-b792-d5cd8892bd82","name":"tests.Login","children":["46f5ba07-ea6c-4597-acf3-1924143cb53d"],"befores":[{"name":"disableAutoLogin","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1674446160458,"stop":1674446160475}],"afters":[],"start":1674446160388,"stop":1674446174612}
