@@ -1,1 +1,0 @@
-Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='title']' (tried for 60 second(s) with 500 milliseconds interval)
