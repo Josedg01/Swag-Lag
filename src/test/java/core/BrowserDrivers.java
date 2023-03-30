@@ -19,6 +19,7 @@ public class BrowserDrivers {
         ChromeOptions chromeOptions = new ChromeOptions();
         chromeOptions.setCapability(CapabilityType.ACCEPT_SSL_CERTS, true);
         chromeOptions.setPageLoadStrategy(PageLoadStrategy.NORMAL);
+        chromeOptions.addArguments("--remote-allow-origins=*");
         if (Config.getHeadless()) {
             chromeOptions.addArguments("headless");
         }

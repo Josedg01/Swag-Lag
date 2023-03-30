@@ -2,8 +2,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
 
-
-
     <listeners>
         <listener class-name="listener.TestListener"/>
         <listener class-name="listener.ExecutionListener"/>

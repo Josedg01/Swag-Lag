@@ -1,12 +1,8 @@
 {
-
-  "incorrectUser": "standard_us",
-  "incorrectPassword": "secret_sau",
+  "incorrectUser": "standard_use",
+  "incorrectPassword": "secret_sauc",
   "customerName": "Albert",
   "customerLastname": "Thomas",
   "zipCode": 1111
-
-
-
 
 }
